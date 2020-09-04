@@ -1,0 +1,12 @@
+$ num = $ _GET [ 'numero1' ];
+$ num2 = $ _GET [ 'numero2' ];
+
+$ soma = $ num + $ num2 ;
+$ subtracao = $ num - $ num2 ;
+$ multiplicacao = $ num * $ num2 ;
+$ divisao = $ num / $ num2 ;
+
+echo  "A soma: $ soma <br>" ;
+echo  "A subtração: $ subtracao <br>" ;
+echo  "A multiplicação: $ multiplicacao <br>" ;
+echo  "A divisão: $ divisao" ;
